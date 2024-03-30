@@ -7,4 +7,5 @@
 - Jquery for event handling
 - Basic arithmetic operations (addition, subtraction, multiplication, division).
 - Responsive design.
+
 Old project thought to upload it here
