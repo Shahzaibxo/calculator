@@ -1,6 +1,6 @@
 # calculator
 
-![Calculator-GoogleChrome2024-03-3023-00-13-ezgif com-video-to-gif-converter](https://github.com/Shahzaibxo/calculator/assets/145616378/245eff44-1dbf-498a-9dbb-9c9785e126e4)
+![Calculator - Google Chrome 2024-03-31 01-01-05](https://github.com/Shahzaibxo/calculator/assets/145616378/eb9feb8d-0747-46da-b25a-20970d399295)
 
 ## Features
 
